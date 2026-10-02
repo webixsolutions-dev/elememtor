@@ -556,19 +556,20 @@ selector .e-filter-item[aria-pressed=true]{{background:{C('primary')};border-col
     ], {"background_background": "classic",
         "background_image": {"url": img("cta-powder-pouches"), "id": "", "source": "library", "alt": ""},
         "background_position": "center right", "background_repeat": "no-repeat",
-        "background_size": "initial", "background_bg_width": px(62, "%"),
+        "background_size": "initial", "background_bg_width": px(70, "%"),
         "background_position_mobile": "bottom center", "background_bg_width_mobile": px(100, "%"),
         "background_overlay_background": "gradient",
-        "background_overlay_color_stop": px(36, "%"), "background_overlay_color_b": "#DCE3D300",
-        "background_overlay_color_b_stop": px(52, "%"),
+        "background_overlay_color_stop": px(30, "%"), "background_overlay_color_b": "#DCE3D300",
+        "background_overlay_color_b_stop": px(46, "%"),
         "background_overlay_gradient_type": "linear", "background_overlay_gradient_angle": px(90, "deg"),
         "background_overlay_gradient_angle_mobile": px(180, "deg"),
-        "background_overlay_color_stop_mobile": px(48, "%"), "background_overlay_color_b_stop_mobile": px(62, "%"),
-        "min_height": px(300), "flex_justify_content": "center"},
+        "background_overlay_color_stop_mobile": px(58, "%"), "background_overlay_color_b_stop_mobile": px(72, "%"),
+        "min_height_mobile": px(0),
+        "min_height": px(340), "flex_justify_content": "center"},
         {"__globals__": {"background_color": gcol("accent"), "background_overlay_color": gcol("accent")}},
         {"background_color": "#DCE3D3"},
         css_class("bo-cta"), gap=10, full=False,
-        pad=(44, 24, 44, 24), pad_mobile=(44, 16, 250, 16))
+        pad=(44, 24, 44, 24), pad_mobile=(44, 16, 175, 16))
 
     page_css = BASE + "\n" + _fallback()
     return [intro, spotlight, stories_sec, cta], _page_settings(page_css)

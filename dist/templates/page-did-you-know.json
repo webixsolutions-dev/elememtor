@@ -286,7 +286,7 @@
      "unit": "px",
      "top": "44",
      "right": "16",
-     "bottom": "250",
+     "bottom": "175",
      "left": "16",
      "isLinked": false
     },
@@ -302,7 +302,7 @@
     "background_size": "initial",
     "background_bg_width": {
      "unit": "%",
-     "size": 62,
+     "size": 70,
      "sizes": []
     },
     "background_position_mobile": "bottom center",
@@ -314,13 +314,13 @@
     "background_overlay_background": "gradient",
     "background_overlay_color_stop": {
      "unit": "%",
-     "size": 36,
+     "size": 30,
      "sizes": []
     },
     "background_overlay_color_b": "#DCE3D300",
     "background_overlay_color_b_stop": {
      "unit": "%",
-     "size": 52,
+     "size": 46,
      "sizes": []
     },
     "background_overlay_gradient_type": "linear",
@@ -336,17 +336,22 @@
     },
     "background_overlay_color_stop_mobile": {
      "unit": "%",
-     "size": 48,
+     "size": 58,
      "sizes": []
     },
     "background_overlay_color_b_stop_mobile": {
      "unit": "%",
-     "size": 62,
+     "size": 72,
+     "sizes": []
+    },
+    "min_height_mobile": {
+     "unit": "px",
+     "size": 0,
      "sizes": []
     },
     "min_height": {
      "unit": "px",
-     "size": 300,
+     "size": 340,
      "sizes": []
     },
     "flex_justify_content": "center",
