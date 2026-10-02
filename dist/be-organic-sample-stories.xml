@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>Be Organic</title>
+	<link>https://example.com</link>
+	<description>Simple ingredients. Everyday inspiration.</description>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://example.com</wp:base_site_url>
+	<wp:base_blog_url>https://example.com</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Be Organic]]></wp:author_display_name></wp:author>
+
+	<wp:category>
+		<wp:term_id>9601</wp:term_id>
+		<wp:category_nicename><![CDATA[ingredient-origins]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Ingredient Origins]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>9602</wp:term_id>
+		<wp:category_nicename><![CDATA[kitchen-tips]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Kitchen Tips]]></wp:cat_name>
+	</wp:category>
+
+	<item>
+		<title><![CDATA[Meet turmeric: color, flavor & kitchen inspiration - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/post-turmeric-hero.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95001</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[post-turmeric-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95501</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/post-turmeric-hero.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[Meet turmeric: color, flavor & kitchen inspiration]]></title>
+		<link>/meet-turmeric/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">A golden ingredient for everyday cooking</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Turmeric is a vibrant, golden root that brings warm color and earthy flavor to everyday meals. Its distinctive taste pairs beautifully with a wide range of ingredients, making it a versatile addition to both simple and creative cooking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whether you’re adding it to a comforting soup, stirring it into rice, or blending it into a creamy drink, turmeric is an easy way to bring more flavor and color to your kitchen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Simple ways to use turmeric</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>In rice:</strong> Stir a pinch of turmeric powder into rice or grains for a beautiful golden color and subtle, earthy flavor.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>In soups:</strong> Add turmeric to soups, stews or curries to bring depth and warmth to your dishes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>In warm drinks:</strong> Mix turmeric into warm milk or your favorite plant-based alternative for a cozy, golden drink.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/post-golden-latte.jpg" alt="Golden turmeric latte in a ceramic mug with turmeric powder and fresh roots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Golden latte inspiration</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A golden latte is a comforting and flavorful way to enjoy turmeric. Simply whisk a pinch of turmeric powder into warm milk or your favorite plant-based alternative, add a touch of cinnamon, and sweeten to taste. It’s a simple, cozy drink that’s perfect for any time of day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Keeping it fresh</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Store turmeric powder in an airtight container in a cool, dry place, away from direct sunlight. This helps keep its vibrant color and flavor fresh for longer, so it’s always ready when you need it.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[A closer look at this vibrant root, its distinctive flavor, and simple ways to use it in everyday meals and drinks.]]></excerpt:encoded>
+		<wp:post_id>95501</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[meet-turmeric]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="ingredient-origins"><![CDATA[Ingredient Origins]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95001]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[A closer look at this golden kitchen staple.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ingredient Spotlight]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Getting to know moringa - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-moringa.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95002</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-26 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-26 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[story-moringa]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95502</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-moringa.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[Getting to know moringa]]></title>
+		<link>/getting-to-know-moringa/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Where moringa comes from</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moringa grows in warm climates, where its small, tender leaves are harvested, gently dried and milled into a fine green powder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The result is a vivid ingredient with a fresh, slightly grassy flavor that blends easily into everyday recipes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Simple ways to enjoy it</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Whisk a spoonful into smoothies, stir it through yogurt or oat bowls, or fold it into pancake batter for a beautiful green color.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Keeping it fresh</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Keep moringa sealed in its pouch or an airtight jar, away from heat and light, to protect its color and flavor.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Discover the origins, flavor and simple ways to enjoy moringa powder in your everyday kitchen.]]></excerpt:encoded>
+		<wp:post_id>95502</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-26 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-26 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[getting-to-know-moringa]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="ingredient-origins"><![CDATA[Ingredient Origins]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95002]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[The bright green leaf with a fresh, earthy taste.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ingredient Origins]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Beetroot beyond the salad bowl - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-beetroot.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95003</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-22 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-22 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[story-beetroot]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95503</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-beetroot.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[Beetroot beyond the salad bowl]]></title>
+		<link>/beetroot-beyond-the-salad-bowl/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">A naturally vibrant ingredient</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Beetroot powder brings a deep ruby color and gentle, earthy sweetness to your kitchen without any fuss.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A little goes a long way, so start with a small spoonful and build from there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Creative ways to use it</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Blend it into smoothies, swirl it through hummus, or add it to frosting and baked goods for a naturally pink finish.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[A closer look at beetroot powder and easy, creative ways to use it in drinks, baked goods and more.]]></excerpt:encoded>
+		<wp:post_id>95503</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-22 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-22 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[beetroot-beyond-the-salad-bowl]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="kitchen-tips"><![CDATA[Kitchen Tips]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95003]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Naturally vibrant color for drinks, bakes and dips.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Kitchen Tips]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Ginger in your everyday kitchen - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-ginger.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95004</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-18 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-18 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[story-ginger]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95504</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-ginger.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[Ginger in your everyday kitchen]]></title>
+		<link>/ginger-in-your-everyday-kitchen/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Warm and aromatic</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ground ginger has a bright, warming flavor that works in both sweet and savory dishes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s a pantry staple that adds instant depth to everyday cooking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Everyday ideas</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Add it to stir-fries and marinades, bake it into cookies and loaves, or stir a pinch into hot water with lemon.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Explore the warm, aromatic flavor of ginger powder and simple ideas for adding it to your daily recipes.]]></excerpt:encoded>
+		<wp:post_id>95504</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-18 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-18 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ginger-in-your-everyday-kitchen]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="kitchen-tips"><![CDATA[Kitchen Tips]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95004]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Warm, aromatic and endlessly useful.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Kitchen Tips]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[From cacao bean to powder - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-cacao.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95005</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-14 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-14 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[story-cacao]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95505</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-cacao.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[From cacao bean to powder]]></title>
+		<link>/from-cacao-bean-to-powder/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">The journey of the bean</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cacao pods are harvested, and their beans are fermented, dried and gently processed before being milled into a fine powder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Each step shapes the deep, chocolatey flavor that makes cacao so loved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Ways to enjoy it</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Stir it into warm drinks, blend it into smoothies, or use it in brownies, energy bites and breakfast bowls.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Follow the journey from cacao bean to powder, and find everyday ways to enjoy its rich, chocolatey flavor.]]></excerpt:encoded>
+		<wp:post_id>95505</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-14 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-14 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[from-cacao-bean-to-powder]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="ingredient-origins"><![CDATA[Ingredient Origins]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95005]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[The rich, chocolatey story behind every spoonful.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ingredient Origins]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Simple smoothie inspiration - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-smoothie.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95006</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[story-smoothie]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95506</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-smoothie.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[Simple smoothie inspiration]]></title>
+		<link>/simple-smoothie-inspiration/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Build a better blend</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Start with a base of fruit and your favorite milk, then add a spoonful of plant powder for color and flavor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Moringa pairs beautifully with banana and pineapple, while beetroot loves berries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Our favorite combinations</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Try moringa, mango and lime; beetroot, strawberry and oat; or cacao, banana and peanut butter.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Easy, delicious smoothie ideas using natural plant powders for a colorful start to your day.]]></excerpt:encoded>
+		<wp:post_id>95506</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[simple-smoothie-inspiration]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="kitchen-tips"><![CDATA[Kitchen Tips]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95006]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Colorful blends for a bright start to the day.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Kitchen Tips]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Storing your pantry powders - image]]></title>
+		<link>https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-pantry.jpg</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95007</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 09:00:00]]></wp:post_date_gmt>
+		<wp:post_name><![CDATA[story-pantry]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95507</wp:post_parent>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/story-pantry.jpg]]></wp:attachment_url>
+	</item>
+	<item>
+		<title><![CDATA[Storing your pantry powders]]></title>
+		<link>/storing-your-pantry-powders/</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Cool, dry and dark</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Light, heat and moisture are the main enemies of plant powders. Keep them in airtight containers in a cool cupboard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Always use a dry spoon to avoid clumping.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Stay organized</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Label your jars with the powder name and opening date, and keep your everyday favorites at the front of the shelf.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Simple tips for keeping your plant powders fresh, organized and ready for everyday use.]]></excerpt:encoded>
+		<wp:post_id>95507</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 09:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[storing-your-pantry-powders]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="kitchen-tips"><![CDATA[Kitchen Tips]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Keep color and flavor at their best.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_eyebrow]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Kitchen Tips]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[bo_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3 min read]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>

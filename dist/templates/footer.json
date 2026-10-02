@@ -1,0 +1,585 @@
+{
+ "content": [
+  {
+   "id": "b1e68ea",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "container_type": "flex",
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px"
+    },
+    "padding": {
+     "unit": "px",
+     "top": "56",
+     "right": "24",
+     "bottom": "48",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "44",
+     "right": "16",
+     "bottom": "40",
+     "left": "16",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "custom_css": "selector .bo-form--icon .elementor-button .elementor-button-text{display:none}\nselector .bo-form--icon .elementor-button .elementor-button-content-wrapper::after{margin:0}\nselector .bo-form--icon .elementor-field-type-submit .elementor-button{padding:0 18px;min-height:46px}\nselector .bo-form--icon .elementor-field-group .elementor-field-textual{min-height:46px}\n",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "bo-footer"
+   },
+   "elements": [
+    {
+     "id": "b359a5c",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "custom",
+       "size": "1.35fr 0.75fr 1.35fr 0.55fr",
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      },
+      "grid_gaps": {
+       "column": "48",
+       "row": "40",
+       "isLinked": false,
+       "unit": "px"
+      },
+      "grid_auto_flow": "row",
+      "grid_outline": "",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "custom",
+       "size": "1fr 1fr",
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "custom",
+       "size": "1fr",
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      }
+     },
+     "elements": [
+      {
+       "id": "7b28a20",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "14",
+         "row": "14",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        }
+       },
+       "elements": [
+        {
+         "id": "ef16bfc",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "html": "<a class=\"bo-logo bo-logo--light\" href=\"/\" aria-label=\"Be Organic home\">Be Organic <svg class=\"bo-sprig\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 40\" width=\"22\" height=\"28\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 38 C 12 28 16 18 26 3\"/><path d=\"M24 6 C 18 6 15 10 16 14 C 21 13 24 10 24 6 Z\"/><path d=\"M19 15 C 13 15 10 19 11 23 C 16 22 19 19 19 15 Z\"/><path d=\"M21 13 C 27 13 30 16 29 20 C 24 20 21 17 21 13 Z\"/><path d=\"M15 23 C 21 23 24 26 23 30 C 18 30 15 27 15 23 Z\"/></svg></a>"
+         },
+         "elements": [],
+         "widgetType": "html"
+        },
+        {
+         "id": "1d2f23a",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Plant-based powders for everyday inspiration.</p>",
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "__globals__": {
+           "typography_typography": "globals/typography?id=bosmall",
+           "text_color": "globals/colors?id=bowhite"
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ]
+      },
+      {
+       "id": "077365b",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "12",
+         "row": "12",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        }
+       },
+       "elements": [
+        {
+         "id": "0409e32",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "title": "Explore",
+          "header_size": "h4",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "__globals__": {
+           "typography_typography": "globals/typography?id=boh5",
+           "title_color": "globals/colors?id=bowhite"
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "f5a023a",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "view": "traditional",
+          "icon_list": [
+           {
+            "_id": "2e3c1ed",
+            "text": "Home",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "/",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "eb0107e",
+            "text": "Shop",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "/shop/",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "0bd358d",
+            "text": "About",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "/about/",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "8e353ba",
+            "text": "Did You Know",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "/did-you-know/",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "1aee403",
+            "text": "Contact",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "/contact/",
+             "is_external": "",
+             "nofollow": ""
+            }
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 4,
+           "sizes": []
+          },
+          "icon_align": "left",
+          "_css_classes": "bo-footer-links",
+          "__globals__": {
+           "icon_typography_typography": "globals/typography?id=bosmall",
+           "text_color": "globals/colors?id=bowhite",
+           "text_color_hover": "globals/colors?id=secondary"
+          }
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ]
+      },
+      {
+       "id": "536cef5",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "12",
+         "row": "12",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        }
+       },
+       "elements": [
+        {
+         "id": "eb68f26",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "title": "Join our newsletter",
+          "header_size": "h4",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "__globals__": {
+           "typography_typography": "globals/typography?id=boh5",
+           "title_color": "globals/colors?id=bowhite"
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "44f6044",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Get simple ideas, new recipes and updates straight to your inbox.</p>",
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "px",
+           "size": 340,
+           "sizes": []
+          },
+          "__globals__": {
+           "typography_typography": "globals/typography?id=bosmall",
+           "text_color": "globals/colors?id=bowhite"
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "715f196",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "form_name": "Footer Newsletter",
+          "form_fields": [
+           {
+            "_id": "bd74049",
+            "custom_id": "email",
+            "field_type": "email",
+            "field_label": "Email",
+            "placeholder": "Your email address",
+            "required": "true",
+            "width": "80",
+            "width_mobile": "66"
+           }
+          ],
+          "input_size": "md",
+          "show_labels": "",
+          "button_text": "",
+          "button_size": "md",
+          "button_width": "20",
+          "button_width_mobile": "33",
+          "submit_actions": [
+           "email"
+          ],
+          "email_subject": "New subscriber - Footer Newsletter",
+          "success_message": "Thank you! You're on the list.",
+          "column_gap": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "row_gap": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "field_border_width": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "field_border_radius": {
+           "unit": "px",
+           "top": "4",
+           "right": "0",
+           "bottom": "0",
+           "left": "4",
+           "isLinked": false
+          },
+          "button_border_radius": {
+           "unit": "px",
+           "top": "0",
+           "right": "4",
+           "bottom": "4",
+           "left": "0",
+           "isLinked": false
+          },
+          "button_text_padding": {
+           "unit": "px",
+           "top": "15",
+           "right": "22",
+           "bottom": "15",
+           "left": "22",
+           "isLinked": false
+          },
+          "_css_classes": "bo-form bo-form--inline bo-form--icon",
+          "__globals__": {
+           "field_typography_typography": "globals/typography?id=bosmall",
+           "button_typography_typography": "globals/typography?id=accent",
+           "field_text_color": "globals/colors?id=boink",
+           "field_background_color": "globals/colors?id=bowhite",
+           "button_background_color": "globals/colors?id=secondary",
+           "button_text_color": "globals/colors?id=bowhite",
+           "button_background_hover_color": "globals/colors?id=bodeep",
+           "button_hover_color": "globals/colors?id=bowhite"
+          }
+         },
+         "elements": [],
+         "widgetType": "form"
+        }
+       ]
+      },
+      {
+       "id": "6ee5bd5",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "0",
+         "row": "0",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "4",
+         "right": "0",
+         "bottom": "4",
+         "left": "36",
+         "isLinked": false
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_color": "#FFFFFF3D",
+        "padding_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "border_width_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "bo-footer-social"
+       },
+       "elements": [
+        {
+         "id": "f903b85",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "social_icon_list": [
+           {
+            "_id": "77b2c49",
+            "social_icon": {
+             "value": "fab fa-instagram",
+             "library": "fa-brands"
+            },
+            "link": {
+             "url": "https://www.instagram.com/",
+             "is_external": "on",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "23fca67",
+            "social_icon": {
+             "value": "fab fa-pinterest",
+             "library": "fa-brands"
+            },
+            "link": {
+             "url": "https://www.pinterest.com/",
+             "is_external": "on",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "c77e9f3",
+            "social_icon": {
+             "value": "fab fa-youtube",
+             "library": "fa-brands"
+            },
+            "link": {
+             "url": "https://www.youtube.com/",
+             "is_external": "on",
+             "nofollow": ""
+            }
+           }
+          ],
+          "shape": "rounded",
+          "icon_color": "custom",
+          "icon_size": {
+           "unit": "px",
+           "size": 17,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "em",
+           "size": 0.35,
+           "sizes": []
+          },
+          "icon_spacing": {
+           "unit": "px",
+           "size": 12,
+           "sizes": []
+          },
+          "align": "left",
+          "border_radius": {
+           "unit": "px",
+           "top": "4",
+           "right": "4",
+           "bottom": "4",
+           "left": "4",
+           "isLinked": true
+          },
+          "hover_animation": "",
+          "align_mobile": "left",
+          "_css_classes": "bo-social",
+          "custom_css": "selector .elementor-social-icon{background-color:transparent!important}selector .elementor-social-icon:hover i{opacity:.85}\n",
+          "__globals__": {
+           "icon_primary_color": "globals/colors?id=primary",
+           "icon_secondary_color": "globals/colors?id=bowhite",
+           "hover_primary_color": "globals/colors?id=primary",
+           "hover_secondary_color": "globals/colors?id=secondary"
+          }
+         },
+         "elements": [],
+         "widgetType": "social-icons"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "page_settings": {
+  "custom_css": "\n/* ===== Be Organic base helpers ===== */\n.bo-arrow .elementor-button-content-wrapper::after{content:\"\";display:inline-block;flex:0 0 auto;width:15px;height:11px;margin-inline-start:10px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transition:transform .25s ease}\n.bo-arrow .elementor-button:hover .elementor-button-content-wrapper::after{transform:translateX(4px)}\n.bo-arrow-left .elementor-button-content-wrapper::before{content:\"\";display:inline-block;flex:0 0 auto;width:15px;height:11px;margin-inline-end:10px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transform:scaleX(-1);transition:transform .25s ease}\n.bo-arrow-left .elementor-button:hover .elementor-button-content-wrapper::before{transform:scaleX(-1) translateX(4px)}\n.bo-arrow .elementor-button,.bo-arrow-left .elementor-button{transition:background-color .25s ease,color .25s ease}\n.bo-leaf-art{display:block;max-width:100%;height:auto}\nbody a.bo-logo,.bo-logo{display:inline-flex;align-items:flex-end;gap:6px;text-decoration:none;color:var(--e-global-color-boink);font-family:var(--e-global-typography-bologo-font-family),serif;font-weight:var(--e-global-typography-bologo-font-weight);font-size:var(--e-global-typography-bologo-font-size);letter-spacing:var(--e-global-typography-bologo-letter-spacing);line-height:1;text-transform:uppercase;white-space:nowrap}\nbody a.bo-logo:hover{color:var(--e-global-color-boink)}\n.bo-logo .bo-sprig{margin-bottom:2px;color:var(--e-global-color-boink)}\nbody a.bo-logo--light,body a.bo-logo--light:hover,.bo-logo--light .bo-sprig{color:var(--e-global-color-bowhite)}\n.bo-clamp-3 .elementor-widget-container,.bo-clamp-3>p,.bo-clamp-3 p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}\n\n.bo-form .elementor-field-group .elementor-field-textual,.bo-form .elementor-field-group select{min-height:50px;padding:12px 16px;border-radius:4px;box-shadow:none;transition:border-color .2s ease}\n.bo-form .elementor-field-group textarea.elementor-field-textual{min-height:130px;resize:vertical}\n.bo-form .elementor-field-group .elementor-field-textual:focus,.bo-form .elementor-field-group select:focus{border-color:var(--e-global-color-primary)!important;outline:none}\n.bo-form .elementor-field-textual::placeholder{color:var(--e-global-color-bomuted);opacity:.85}\n.bo-form .elementor-select-wrapper .select-caret-down-wrapper{right:16px}\n.bo-form .elementor-select-wrapper select{color:var(--e-global-color-boink)}\n.bo-form .elementor-field-type-submit .elementor-button{min-height:58px;width:100%}\n.bo-form .elementor-button .elementor-button-content-wrapper::after{content:\"\";display:inline-block;width:15px;height:11px;margin-inline-start:12px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transition:transform .25s ease}\n.bo-form .elementor-button:hover .elementor-button-content-wrapper::after{transform:translateX(4px)}\n.bo-form .elementor-message{font-size:15px;margin-top:12px}\n.bo-form--inline .elementor-form-fields-wrapper{flex-wrap:nowrap}\n.bo-form--inline .elementor-field-group{margin-bottom:0}\n.bo-form--inline .elementor-field-group .elementor-field-textual{border:0;border-radius:4px 0 0 4px;min-height:52px}\n.bo-form--inline .elementor-field-type-submit .elementor-button{border-radius:0 4px 4px 0;min-height:52px;padding:0 26px}\n.bo-form--noarrow .elementor-button .elementor-button-content-wrapper::after{display:none}\n@media (max-width:767px){.bo-form--inline .elementor-field-group{width:auto!important}.bo-form--inline .elementor-field-type-email{flex:1 1 auto}.bo-form--inline .elementor-field-type-submit{flex:0 0 auto}}\n\n/* Fallback values - Site Settings (global colors/fonts) override these */\n:root{--e-global-color-primary:#1F3D2B;--e-global-color-secondary:#B38746;--e-global-color-text:#4A4841;--e-global-color-accent:#DCE3D3;--e-global-color-bocream:#F8F4EE;--e-global-color-bopaper:#FCFAF6;--e-global-color-boink:#16291E;--e-global-color-bomuted:#6B6961;--e-global-color-bogold:#9A7640;--e-global-color-boborder:#E2DED6;--e-global-color-bodeep:#142B1D;--e-global-color-bowhite:#FFFFFF;--e-global-typography-primary-font-family:\"Newsreader\";--e-global-typography-primary-font-weight:500;--e-global-typography-primary-font-size:64px;--e-global-typography-primary-line-height:1.08em;--e-global-typography-primary-letter-spacing:-1px;--e-global-typography-secondary-font-family:\"Newsreader\";--e-global-typography-secondary-font-weight:500;--e-global-typography-secondary-font-size:44px;--e-global-typography-secondary-line-height:1.15em;--e-global-typography-secondary-letter-spacing:-0.5px;--e-global-typography-text-font-family:\"Jost\";--e-global-typography-text-font-weight:400;--e-global-typography-text-font-size:17px;--e-global-typography-text-line-height:1.65em;--e-global-typography-accent-font-family:\"Jost\";--e-global-typography-accent-font-weight:500;--e-global-typography-accent-font-size:16px;--e-global-typography-accent-line-height:1.2em;--e-global-typography-accent-letter-spacing:0.2px;--e-global-typography-boh3-font-family:\"Newsreader\";--e-global-typography-boh3-font-weight:500;--e-global-typography-boh3-font-size:34px;--e-global-typography-boh3-line-height:1.2em;--e-global-typography-boh3-letter-spacing:-0.3px;--e-global-typography-boh4-font-family:\"Newsreader\";--e-global-typography-boh4-font-weight:500;--e-global-typography-boh4-font-size:25px;--e-global-typography-boh4-line-height:1.25em;--e-global-typography-boh4-letter-spacing:-0.2px;--e-global-typography-boh5-font-family:\"Newsreader\";--e-global-typography-boh5-font-weight:500;--e-global-typography-boh5-font-size:20px;--e-global-typography-boh5-line-height:1.35em;--e-global-typography-bolead-font-family:\"Jost\";--e-global-typography-bolead-font-weight:400;--e-global-typography-bolead-font-size:19px;--e-global-typography-bolead-line-height:1.6em;--e-global-typography-bosmall-font-family:\"Jost\";--e-global-typography-bosmall-font-weight:400;--e-global-typography-bosmall-font-size:15px;--e-global-typography-bosmall-line-height:1.6em;--e-global-typography-boeyebrow-font-family:\"Jost\";--e-global-typography-boeyebrow-font-weight:500;--e-global-typography-boeyebrow-font-size:13px;--e-global-typography-boeyebrow-line-height:1.4em;--e-global-typography-boeyebrow-letter-spacing:2.6px;--e-global-typography-boeyebrow-text-transform:uppercase;--e-global-typography-bonav-font-family:\"Jost\";--e-global-typography-bonav-font-weight:400;--e-global-typography-bonav-font-size:15px;--e-global-typography-bonav-line-height:1.4em;--e-global-typography-bologo-font-family:\"Newsreader\";--e-global-typography-bologo-font-weight:500;--e-global-typography-bologo-font-size:30px;--e-global-typography-bologo-line-height:1em;--e-global-typography-bologo-letter-spacing:0.5px;--e-global-typography-bologo-text-transform:uppercase;}"
+ },
+ "version": "0.4",
+ "title": "Be Organic - Footer",
+ "type": "footer"
+}

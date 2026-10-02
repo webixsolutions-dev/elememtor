@@ -1,0 +1,1406 @@
+{
+ "content": [
+  {
+   "id": "02d3edc",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "container_type": "flex",
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px"
+    },
+    "padding": {
+     "unit": "px",
+     "top": "70",
+     "right": "24",
+     "bottom": "46",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "48",
+     "right": "16",
+     "bottom": "32",
+     "left": "16",
+     "isLinked": false
+    },
+    "overflow": "hidden",
+    "css_classes": "bo-contact-hero"
+   },
+   "elements": [
+    {
+     "id": "6c0d0d4",
+     "elType": "widget",
+     "isInner": false,
+     "settings": {
+      "html": "<svg class=\"bo-leaf-art\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 240\" width=\"260\" aria-hidden=\"true\" focusable=\"false\"><defs><filter id=\"bo-soft1\" x=\"-10%\" y=\"-10%\" width=\"130%\" height=\"140%\"><feDropShadow dx=\"0\" dy=\"6\" stdDeviation=\"5\" flood-color=\"#2b3a1f\" flood-opacity=\".18\"/></filter></defs><g filter=\"url(#bo-soft1)\"><g ><g transform=\"rotate(8 150 120)\"><path d=\"M0 40 C 70 55 150 95 235 165\" stroke=\"#6B7F45\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><g transform=\"translate(21.3 45.3) rotate(-40.4)\"><path d=\"M0 0 C 17.5 -20.0 49.0 -19.0 70.0 0 C 49.0 19.0 17.5 20.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 17.5 -20.0 49.0 -19.0 70.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 35.0 -1.6 67.2 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(47.6 53.6) rotate(73.5)\"><path d=\"M0 0 C 19.5 -22.0 54.6 -20.9 78.0 0 C 54.6 20.9 19.5 22.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 19.5 -22.0 54.6 -20.9 78.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 39.0 -1.8 74.9 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(83.9 68.2) rotate(-27.7)\"><path d=\"M0 0 C 21.0 -24.0 58.8 -22.8 84.0 0 C 58.8 22.8 21.0 24.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 21.0 -24.0 58.8 -22.8 84.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 42.0 -1.9 80.6 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(116.6 84.4) rotate(86.2)\"><path d=\"M0 0 C 21.5 -25.0 60.2 -23.8 86.0 0 C 60.2 23.8 21.5 25.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 21.5 -25.0 60.2 -23.8 86.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 43.0 -2.0 82.6 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(150.2 103.8) rotate(-14.2)\"><path d=\"M0 0 C 20.0 -23.0 56.0 -21.8 80.0 0 C 56.0 21.8 20.0 23.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 20.0 -23.0 56.0 -21.8 80.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 40.0 -1.8 76.8 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(184.6 126.6) rotate(97.1)\"><path d=\"M0 0 C 17.5 -21.0 49.0 -19.9 70.0 0 C 49.0 19.9 17.5 21.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 17.5 -21.0 49.0 -19.9 70.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 35.0 -1.7 67.2 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(227.4 158.8) rotate(38.8)\"><path d=\"M0 0 C 16.0 -19.0 44.8 -18.1 64.0 0 C 44.8 18.1 16.0 19.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 16.0 -19.0 44.8 -18.1 64.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 32.0 -1.5 61.4 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g></g></g></g></svg>",
+      "_position": "absolute",
+      "_offset_orientation_h": "start",
+      "_offset_x": {
+       "unit": "px",
+       "size": -34,
+       "sizes": []
+      },
+      "_offset_orientation_v": "start",
+      "_offset_y": {
+       "unit": "px",
+       "size": -6,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "px",
+       "size": 250,
+       "sizes": []
+      },
+      "_z_index": 0,
+      "_offset_x_tablet": {
+       "unit": "px",
+       "size": -70,
+       "sizes": []
+      },
+      "hide_mobile": "hidden-mobile",
+      "_css_classes": "bo-leaves bo-leaves--left"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "8caaeb9",
+     "elType": "widget",
+     "isInner": false,
+     "settings": {
+      "html": "<svg class=\"bo-leaf-art\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 240\" width=\"260\" aria-hidden=\"true\" focusable=\"false\"><defs><filter id=\"bo-soft2\" x=\"-10%\" y=\"-10%\" width=\"130%\" height=\"140%\"><feDropShadow dx=\"0\" dy=\"6\" stdDeviation=\"5\" flood-color=\"#2b3a1f\" flood-opacity=\".18\"/></filter></defs><g filter=\"url(#bo-soft2)\"><g transform=\"translate(300 0) scale(-1 1)\"><g transform=\"rotate(14 150 120)\"><path d=\"M0 40 C 70 55 150 95 235 165\" stroke=\"#6B7F45\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><g transform=\"translate(21.3 45.3) rotate(-40.4)\"><path d=\"M0 0 C 17.5 -20.0 49.0 -19.0 70.0 0 C 49.0 19.0 17.5 20.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 17.5 -20.0 49.0 -19.0 70.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 35.0 -1.6 67.2 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(47.6 53.6) rotate(73.5)\"><path d=\"M0 0 C 19.5 -22.0 54.6 -20.9 78.0 0 C 54.6 20.9 19.5 22.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 19.5 -22.0 54.6 -20.9 78.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 39.0 -1.8 74.9 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(83.9 68.2) rotate(-27.7)\"><path d=\"M0 0 C 21.0 -24.0 58.8 -22.8 84.0 0 C 58.8 22.8 21.0 24.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 21.0 -24.0 58.8 -22.8 84.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 42.0 -1.9 80.6 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(116.6 84.4) rotate(86.2)\"><path d=\"M0 0 C 21.5 -25.0 60.2 -23.8 86.0 0 C 60.2 23.8 21.5 25.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 21.5 -25.0 60.2 -23.8 86.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 43.0 -2.0 82.6 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(150.2 103.8) rotate(-14.2)\"><path d=\"M0 0 C 20.0 -23.0 56.0 -21.8 80.0 0 C 56.0 21.8 20.0 23.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 20.0 -23.0 56.0 -21.8 80.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 40.0 -1.8 76.8 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(184.6 126.6) rotate(97.1)\"><path d=\"M0 0 C 17.5 -21.0 49.0 -19.9 70.0 0 C 49.0 19.9 17.5 21.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 17.5 -21.0 49.0 -19.9 70.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 35.0 -1.7 67.2 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(227.4 158.8) rotate(38.8)\"><path d=\"M0 0 C 16.0 -19.0 44.8 -18.1 64.0 0 C 44.8 18.1 16.0 19.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 16.0 -19.0 44.8 -18.1 64.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 32.0 -1.5 61.4 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g></g></g></g></svg>",
+      "_position": "absolute",
+      "_offset_orientation_h": "end",
+      "_offset_x_end": {
+       "unit": "px",
+       "size": -28,
+       "sizes": []
+      },
+      "_offset_orientation_v": "start",
+      "_offset_y": {
+       "unit": "px",
+       "size": 8,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "px",
+       "size": 250,
+       "sizes": []
+      },
+      "_z_index": 0,
+      "_offset_x_end_tablet": {
+       "unit": "px",
+       "size": -80,
+       "sizes": []
+      },
+      "hide_mobile": "hidden-mobile",
+      "_css_classes": "bo-leaves bo-leaves--right"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "fb7435c",
+     "elType": "widget",
+     "isInner": false,
+     "settings": {
+      "image": {
+       "url": "",
+       "id": ""
+      },
+      "title_text": "Let’s talk goodness.",
+      "description_text": "Questions about our powders or your order? We’re here to help.",
+      "title_size": "h1",
+      "position": "top",
+      "text_align": "center",
+      "title_bottom_space": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "image_space": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "_z_index": 1,
+      "__globals__": {
+       "title_typography_typography": "globals/typography?id=primary",
+       "description_typography_typography": "globals/typography?id=bolead",
+       "title_color": "globals/colors?id=boink",
+       "description_color": "globals/colors?id=boink"
+      }
+     },
+     "elements": [],
+     "widgetType": "image-box"
+    }
+   ]
+  },
+  {
+   "id": "50daa64",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "container_type": "flex",
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px"
+    },
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "24",
+     "bottom": "26",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "0",
+     "right": "16",
+     "bottom": "24",
+     "left": "16",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "802856e",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "custom",
+       "size": "1fr 1fr",
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "custom",
+       "size": "auto auto",
+       "sizes": []
+      },
+      "grid_gaps": {
+       "column": "18",
+       "row": "16",
+       "isLinked": false,
+       "unit": "px"
+      },
+      "grid_auto_flow": "row",
+      "grid_outline": "",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "custom",
+       "size": "1fr 1fr",
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "custom",
+       "size": "1fr",
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      }
+     },
+     "elements": [
+      {
+       "id": "31f4bd4",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "22",
+         "row": "22",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "34",
+         "right": "32",
+         "bottom": "32",
+         "left": "32",
+         "isLinked": false
+        },
+        "background_background": "classic",
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": true
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "26",
+         "right": "20",
+         "bottom": "24",
+         "left": "20",
+         "isLinked": false
+        },
+        "grid_row": "2",
+        "grid_row_mobile": "1",
+        "__globals__": {
+         "background_color": "globals/colors?id=bopaper",
+         "border_color": "globals/colors?id=boborder"
+        },
+        "css_classes": "bo-form-card"
+       },
+       "elements": [
+        {
+         "id": "694a0af",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "title": "Send us a message",
+          "header_size": "h2",
+          "__globals__": {
+           "typography_typography": "globals/typography?id=boh3",
+           "title_color": "globals/colors?id=boink"
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "01552ae",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "form_name": "Contact Form",
+          "form_fields": [
+           {
+            "_id": "87075cf",
+            "custom_id": "name",
+            "field_type": "text",
+            "field_label": "Your Name",
+            "placeholder": "Enter your name",
+            "required": "true",
+            "width": "100"
+           },
+           {
+            "_id": "9d7c8ec",
+            "custom_id": "email",
+            "field_type": "email",
+            "field_label": "Email Address",
+            "placeholder": "Enter your email address",
+            "required": "true",
+            "width": "100"
+           },
+           {
+            "_id": "3c30f23",
+            "custom_id": "topic",
+            "field_type": "select",
+            "field_label": "Topic",
+            "field_options": "Please select a topic|\nProduct questions\nOrder enquiries\nShipping information\nSomething else",
+            "required": "true",
+            "width": "100"
+           },
+           {
+            "_id": "69a2d9c",
+            "custom_id": "order_number",
+            "field_type": "text",
+            "field_label": "Order Number (optional)",
+            "placeholder": "Enter order number (optional)",
+            "width": "100"
+           },
+           {
+            "_id": "cc6327a",
+            "custom_id": "message",
+            "field_type": "textarea",
+            "field_label": "Message",
+            "placeholder": "Tell us how we can help...",
+            "required": "true",
+            "width": "100",
+            "rows": 5
+           }
+          ],
+          "input_size": "md",
+          "show_labels": "yes",
+          "mark_required": "",
+          "button_text": "Send Message",
+          "button_size": "md",
+          "button_width": "100",
+          "submit_actions": [
+           "email"
+          ],
+          "email_subject": "New message from the Be Organic contact form",
+          "success_message": "Thank you! We’ll get back to you within one business day.",
+          "column_gap": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "row_gap": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "label_spacing": {
+           "unit": "px",
+           "size": 9,
+           "sizes": []
+          },
+          "field_border_width": {
+           "unit": "px",
+           "top": "1",
+           "right": "1",
+           "bottom": "1",
+           "left": "1",
+           "isLinked": true
+          },
+          "field_border_radius": {
+           "unit": "px",
+           "top": "4",
+           "right": "4",
+           "bottom": "4",
+           "left": "4",
+           "isLinked": true
+          },
+          "button_border_radius": {
+           "unit": "px",
+           "top": "6",
+           "right": "6",
+           "bottom": "6",
+           "left": "6",
+           "isLinked": true
+          },
+          "button_text_padding": {
+           "unit": "px",
+           "top": "19",
+           "right": "24",
+           "bottom": "19",
+           "left": "24",
+           "isLinked": false
+          },
+          "label_typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "_css_classes": "bo-form",
+          "custom_css": "selector .elementor-field-type-submit{margin-top:6px}\n",
+          "__globals__": {
+           "label_typography_typography": "globals/typography?id=text",
+           "field_typography_typography": "globals/typography?id=bosmall",
+           "button_typography_typography": "globals/typography?id=accent",
+           "label_color": "globals/colors?id=boink",
+           "field_text_color": "globals/colors?id=boink",
+           "field_background_color": "globals/colors?id=bowhite",
+           "field_border_color": "globals/colors?id=boborder",
+           "button_background_color": "globals/colors?id=primary",
+           "button_text_color": "globals/colors?id=bowhite",
+           "button_background_hover_color": "globals/colors?id=bodeep",
+           "button_hover_color": "globals/colors?id=bowhite"
+          }
+         },
+         "elements": [],
+         "widgetType": "form"
+        }
+       ]
+      },
+      {
+       "id": "371dba9",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "image": {
+         "url": "https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/contact-moringa-pouch.jpg",
+         "id": "",
+         "size": "",
+         "alt": "Be Organic moringa powder with a cup of matcha-style moringa drink",
+         "source": "library"
+        },
+        "image_size": "full",
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "align": "center",
+        "height": {
+         "unit": "px",
+         "size": 552,
+         "sizes": []
+        },
+        "object-fit": "cover",
+        "object-position": "center center",
+        "height_tablet": {
+         "unit": "px",
+         "size": 440,
+         "sizes": []
+        },
+        "height_mobile": {
+         "unit": "px",
+         "size": 300,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": true
+        },
+        "_grid_row": ""
+       },
+       "elements": [],
+       "widgetType": "image"
+      },
+      {
+       "id": "d0d1a2e",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "12",
+         "row": "12",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "56",
+         "bottom": "26",
+         "left": "56",
+         "isLinked": false
+        },
+        "background_background": "classic",
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": true
+        },
+        "padding_tablet": {
+         "unit": "px",
+         "top": "28",
+         "right": "32",
+         "bottom": "24",
+         "left": "32",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "24",
+         "right": "20",
+         "bottom": "20",
+         "left": "20",
+         "isLinked": false
+        },
+        "__globals__": {
+         "background_color": "globals/colors?id=accent"
+        }
+       },
+       "elements": [
+        {
+         "id": "f032c04",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "title": "How can we help?",
+          "header_size": "h2",
+          "__globals__": {
+           "typography_typography": "globals/typography?id=boh3",
+           "title_color": "globals/colors?id=boink"
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "d8b1c6b",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "view": "traditional",
+          "icon_list": [
+           {
+            "_id": "77b5990",
+            "text": "Product questions",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "#faq",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "8fec0ae",
+            "text": "Order enquiries",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "#faq",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "c9d5108",
+            "text": "Shipping information",
+            "selected_icon": {
+             "value": "",
+             "library": ""
+            },
+            "link": {
+             "url": "#faq",
+             "is_external": "",
+             "nofollow": ""
+            }
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "divider": "yes",
+          "divider_style": "solid",
+          "divider_weight": {
+           "unit": "px",
+           "size": 1,
+           "sizes": []
+          },
+          "divider_width": {
+           "unit": "%",
+           "size": 100,
+           "sizes": []
+          },
+          "divider_color": "#1F3D2B33",
+          "_css_classes": "bo-help-list",
+          "custom_css": "selector .elementor-icon-list-item{padding:13px 0!important}\nselector .elementor-icon-list-item:first-child{padding-top:6px!important}\nselector .elementor-icon-list-item:last-child{padding-bottom:4px!important}\nselector .elementor-icon-list-item>a{display:flex;width:100%;align-items:center;justify-content:space-between}\nselector .elementor-icon-list-item>a::after{content:\"\";width:16px;height:12px;flex:0 0 auto;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;color:var(--e-global-color-boink);transition:transform .25s ease}\nselector .elementor-icon-list-item>a:hover::after{transform:translateX(4px)}\nselector .elementor-icon-list-item:not(:last-child):after{left:0;width:100%}\n",
+          "__globals__": {
+           "icon_typography_typography": "globals/typography?id=bolead",
+           "text_color": "globals/colors?id=boink",
+           "text_color_hover": "globals/colors?id=primary"
+          }
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9295b4",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "container_type": "flex",
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px"
+    },
+    "padding": {
+     "unit": "px",
+     "top": "20",
+     "right": "24",
+     "bottom": "14",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "40",
+     "right": "16",
+     "bottom": "32",
+     "left": "16",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "_element_id": "faq",
+    "__globals__": {
+     "background_color": "globals/colors?id=bopaper"
+    }
+   },
+   "elements": [
+    {
+     "id": "7342c36",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "custom",
+       "size": "1.19fr 1fr",
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      },
+      "grid_gaps": {
+       "column": "24",
+       "row": "28",
+       "isLinked": false,
+       "unit": "px"
+      },
+      "grid_auto_flow": "row",
+      "grid_outline": "",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "custom",
+       "size": "1fr",
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "custom",
+       "size": "1fr",
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      },
+      "grid_align_items": "start"
+     },
+     "elements": [
+      {
+       "id": "1fcf9ca",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "18",
+         "row": "18",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "26",
+         "right": "0",
+         "bottom": "0",
+         "left": "10",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        }
+       },
+       "elements": [
+        {
+         "id": "ff8ac1f",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "title": "A few helpful answers",
+          "header_size": "h2",
+          "__globals__": {
+           "typography_typography": "globals/typography?id=secondary",
+           "title_color": "globals/colors?id=boink"
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "39f576a",
+         "elType": "widget",
+         "isInner": false,
+         "widgetType": "nested-accordion",
+         "settings": {
+          "items": [
+           {
+            "_id": "8677e38",
+            "item_title": "How can I use the powders?",
+            "element_css_id": ""
+           },
+           {
+            "_id": "83dbf95",
+            "item_title": "Where can I find ingredient details?",
+            "element_css_id": ""
+           },
+           {
+            "_id": "a5baa87",
+            "item_title": "How do I check shipping options?",
+            "element_css_id": ""
+           }
+          ],
+          "accordion_item_title_position_horizontal": "stretch",
+          "accordion_item_title_icon_position": "end",
+          "accordion_item_title_icon": {
+           "value": "fas fa-chevron-down",
+           "library": "fa-solid"
+          },
+          "accordion_item_title_icon_active": {
+           "value": "fas fa-chevron-up",
+           "library": "fa-solid"
+          },
+          "title_tag": "h3",
+          "faq_schema": "yes",
+          "default_state": "expanded",
+          "max_items_expended": "one",
+          "accordion_item_title_space_between": {
+           "unit": "px",
+           "size": 10,
+           "sizes": []
+          },
+          "accordion_item_title_distance_from_content": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "accordion_padding": {
+           "unit": "px",
+           "top": "19",
+           "right": "26",
+           "bottom": "19",
+           "left": "26",
+           "isLinked": false
+          },
+          "accordion_border_radius": {
+           "unit": "px",
+           "top": "4",
+           "right": "4",
+           "bottom": "4",
+           "left": "4",
+           "isLinked": true
+          },
+          "accordion_background_normal_background": "classic",
+          "accordion_background_hover_background": "classic",
+          "accordion_background_active_background": "classic",
+          "accordion_border_normal_border": "solid",
+          "accordion_border_normal_width": {
+           "unit": "px",
+           "top": "1",
+           "right": "1",
+           "bottom": "1",
+           "left": "1",
+           "isLinked": true
+          },
+          "accordion_border_hover_border": "solid",
+          "accordion_border_hover_width": {
+           "unit": "px",
+           "top": "1",
+           "right": "1",
+           "bottom": "1",
+           "left": "1",
+           "isLinked": true
+          },
+          "accordion_border_active_border": "solid",
+          "accordion_border_active_width": {
+           "unit": "px",
+           "top": "1",
+           "right": "1",
+           "bottom": "0",
+           "left": "1",
+           "isLinked": false
+          },
+          "content_background_background": "classic",
+          "content_border_border": "solid",
+          "content_border_width": {
+           "unit": "px",
+           "top": "0",
+           "right": "1",
+           "bottom": "1",
+           "left": "1",
+           "isLinked": false
+          },
+          "content_border_radius": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "4",
+           "left": "4",
+           "isLinked": false
+          },
+          "content_padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "26",
+           "bottom": "24",
+           "left": "26",
+           "isLinked": false
+          },
+          "icon_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "icon_spacing": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "_css_classes": "bo-faq",
+          "custom_css": "selector .e-n-accordion-item[open]>.e-n-accordion-item-title{border-bottom-left-radius:0;border-bottom-right-radius:0}\nselector .e-n-accordion-item-title-text{line-height:1.35}\n@media (max-width:767px){selector .e-n-accordion-item-title{padding:16px 18px!important}selector .e-n-accordion-item>[role=region]{padding:0 18px 18px!important}}\n",
+          "__globals__": {
+           "title_typography_typography": "globals/typography?id=boh5",
+           "accordion_background_normal_color": "globals/colors?id=bowhite",
+           "accordion_background_hover_color": "globals/colors?id=bowhite",
+           "accordion_background_active_color": "globals/colors?id=bowhite",
+           "accordion_border_normal_color": "globals/colors?id=boborder",
+           "accordion_border_hover_color": "globals/colors?id=boborder",
+           "accordion_border_active_color": "globals/colors?id=boborder",
+           "content_background_color": "globals/colors?id=bowhite",
+           "content_border_color": "globals/colors?id=boborder",
+           "normal_title_color": "globals/colors?id=boink",
+           "hover_title_color": "globals/colors?id=primary",
+           "active_title_color": "globals/colors?id=boink",
+           "normal_icon_color": "globals/colors?id=boink",
+           "hover_icon_color": "globals/colors?id=primary",
+           "active_icon_color": "globals/colors?id=boink"
+          }
+         },
+         "elements": [
+          {
+           "id": "acdd0f6",
+           "elType": "container",
+           "isInner": true,
+           "settings": {
+            "_title": "item #1",
+            "content_width": "full",
+            "container_type": "flex",
+            "flex_direction": "column"
+           },
+           "elements": [
+            {
+             "id": "88b941c",
+             "elType": "widget",
+             "isInner": false,
+             "settings": {
+              "editor": "<p>Our powders are easy to add to your daily routine. From smoothies and oat bowls to baking and simple drinks, there are many ways to enjoy them. Visit our product pages for serving ideas and inspiration.</p>",
+              "paragraph_spacing": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "typography_font_size": {
+               "unit": "px",
+               "size": 16,
+               "sizes": []
+              },
+              "__globals__": {
+               "typography_typography": "globals/typography?id=bosmall",
+               "text_color": "globals/colors?id=text"
+              }
+             },
+             "elements": [],
+             "widgetType": "text-editor"
+            }
+           ]
+          },
+          {
+           "id": "13e602a",
+           "elType": "container",
+           "isInner": true,
+           "settings": {
+            "_title": "item #2",
+            "content_width": "full",
+            "container_type": "flex",
+            "flex_direction": "column"
+           },
+           "elements": [
+            {
+             "id": "b9183fa",
+             "elType": "widget",
+             "isInner": false,
+             "settings": {
+              "editor": "<p>Every product page lists the full ingredient details, origin and nutrition information. You’ll also find the same details printed on the back of each pouch.</p>",
+              "paragraph_spacing": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "typography_font_size": {
+               "unit": "px",
+               "size": 16,
+               "sizes": []
+              },
+              "__globals__": {
+               "typography_typography": "globals/typography?id=bosmall",
+               "text_color": "globals/colors?id=text"
+              }
+             },
+             "elements": [],
+             "widgetType": "text-editor"
+            }
+           ]
+          },
+          {
+           "id": "c7b0aba",
+           "elType": "container",
+           "isInner": true,
+           "settings": {
+            "_title": "item #3",
+            "content_width": "full",
+            "container_type": "flex",
+            "flex_direction": "column"
+           },
+           "elements": [
+            {
+             "id": "91e2d2b",
+             "elType": "widget",
+             "isInner": false,
+             "settings": {
+              "editor": "<p>Shipping options and delivery times are shown at checkout once you enter your address. For anything else, send us a message and we’ll be happy to help.</p>",
+              "paragraph_spacing": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "typography_font_size": {
+               "unit": "px",
+               "size": 16,
+               "sizes": []
+              },
+              "__globals__": {
+               "typography_typography": "globals/typography?id=bosmall",
+               "text_color": "globals/colors?id=text"
+              }
+             },
+             "elements": [],
+             "widgetType": "text-editor"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "3b69033",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "image": {
+         "url": "https://raw.githubusercontent.com/webixsolutions-dev/elememtor/refs/heads/claude/elementor-pro-json-file-w1esvf/assets/images/contact-faq-turmeric.jpg",
+         "id": "",
+         "size": "",
+         "alt": "Turmeric powder in a ceramic bowl with fresh turmeric roots",
+         "source": "library"
+        },
+        "image_size": "full",
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "align": "center",
+        "height": {
+         "unit": "px",
+         "size": 445,
+         "sizes": []
+        },
+        "object-fit": "cover",
+        "object-position": "center center",
+        "height_tablet": {
+         "unit": "px",
+         "size": 380,
+         "sizes": []
+        },
+        "height_mobile": {
+         "unit": "px",
+         "size": 260,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": true
+        }
+       },
+       "elements": [],
+       "widgetType": "image"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c8cf238",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "container_type": "flex",
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px"
+    },
+    "padding": {
+     "unit": "px",
+     "top": "34",
+     "right": "24",
+     "bottom": "32",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "16",
+     "bottom": "36",
+     "left": "16",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "overflow": "hidden",
+    "__globals__": {
+     "background_color": "globals/colors?id=accent"
+    }
+   },
+   "elements": [
+    {
+     "id": "b8eb5bd",
+     "elType": "widget",
+     "isInner": false,
+     "settings": {
+      "html": "<svg class=\"bo-leaf-art\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 240\" width=\"200\" aria-hidden=\"true\" focusable=\"false\"><defs><filter id=\"bo-soft3\" x=\"-10%\" y=\"-10%\" width=\"130%\" height=\"140%\"><feDropShadow dx=\"0\" dy=\"6\" stdDeviation=\"5\" flood-color=\"#2b3a1f\" flood-opacity=\".18\"/></filter></defs><g filter=\"url(#bo-soft3)\"><g ><g transform=\"rotate(-28 150 120)\"><path d=\"M0 40 C 70 55 150 95 235 165\" stroke=\"#6B7F45\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><g transform=\"translate(21.3 45.3) rotate(-40.4)\"><path d=\"M0 0 C 17.5 -20.0 49.0 -19.0 70.0 0 C 49.0 19.0 17.5 20.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 17.5 -20.0 49.0 -19.0 70.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 35.0 -1.6 67.2 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(47.6 53.6) rotate(73.5)\"><path d=\"M0 0 C 19.5 -22.0 54.6 -20.9 78.0 0 C 54.6 20.9 19.5 22.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 19.5 -22.0 54.6 -20.9 78.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 39.0 -1.8 74.9 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(83.9 68.2) rotate(-27.7)\"><path d=\"M0 0 C 21.0 -24.0 58.8 -22.8 84.0 0 C 58.8 22.8 21.0 24.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 21.0 -24.0 58.8 -22.8 84.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 42.0 -1.9 80.6 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(116.6 84.4) rotate(86.2)\"><path d=\"M0 0 C 21.5 -25.0 60.2 -23.8 86.0 0 C 60.2 23.8 21.5 25.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 21.5 -25.0 60.2 -23.8 86.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 43.0 -2.0 82.6 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(150.2 103.8) rotate(-14.2)\"><path d=\"M0 0 C 20.0 -23.0 56.0 -21.8 80.0 0 C 56.0 21.8 20.0 23.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 20.0 -23.0 56.0 -21.8 80.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 40.0 -1.8 76.8 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(184.6 126.6) rotate(97.1)\"><path d=\"M0 0 C 17.5 -21.0 49.0 -19.9 70.0 0 C 49.0 19.9 17.5 21.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 17.5 -21.0 49.0 -19.9 70.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 35.0 -1.7 67.2 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g><g transform=\"translate(227.4 158.8) rotate(38.8)\"><path d=\"M0 0 C 16.0 -19.0 44.8 -18.1 64.0 0 C 44.8 18.1 16.0 19.0 0 0 Z\" fill=\"#56743A\"/><path d=\"M0 0 C 16.0 -19.0 44.8 -18.1 64.0 0 Z\" fill=\"#7E9A57\"/><path d=\"M2 0 Q 32.0 -1.5 61.4 0\" stroke=\"#B9C99A\" stroke-width=\"1.1\" fill=\"none\" stroke-linecap=\"round\"/></g></g></g></g></svg>",
+      "_position": "absolute",
+      "_offset_orientation_h": "start",
+      "_offset_x": {
+       "unit": "px",
+       "size": -10,
+       "sizes": []
+      },
+      "_offset_orientation_v": "end",
+      "_offset_y_end": {
+       "unit": "px",
+       "size": -18,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "px",
+       "size": 190,
+       "sizes": []
+      },
+      "hide_tablet": "hidden-tablet",
+      "hide_mobile": "hidden-mobile"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "c7110bc",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "custom",
+       "size": "1fr 0.82fr",
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      },
+      "grid_gaps": {
+       "column": "40",
+       "row": "24",
+       "isLinked": false,
+       "unit": "px"
+      },
+      "grid_auto_flow": "row",
+      "grid_outline": "",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "186",
+       "isLinked": false
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "custom",
+       "size": "1fr",
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "custom",
+       "size": "1fr",
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "custom",
+       "size": "auto",
+       "sizes": []
+      },
+      "grid_align_items": "center",
+      "padding_tablet": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      }
+     },
+     "elements": [
+      {
+       "id": "8951da5",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "container_type": "flex",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "8",
+         "row": "8",
+         "isLinked": true,
+         "unit": "px"
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        }
+       },
+       "elements": [
+        {
+         "id": "5efbbe8",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "title": "Join our journey",
+          "header_size": "p",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 11,
+           "sizes": []
+          },
+          "__globals__": {
+           "typography_typography": "globals/typography?id=boeyebrow",
+           "title_color": "globals/colors?id=boink"
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "0376d62",
+         "elType": "widget",
+         "isInner": false,
+         "settings": {
+          "image": {
+           "url": "",
+           "id": ""
+          },
+          "title_text": "Get the latest inspiration",
+          "description_text": "Sign up for simple ideas, new products and more.",
+          "title_size": "h2",
+          "position": "top",
+          "text_align": "left",
+          "title_bottom_space": {
+           "unit": "px",
+           "size": 12,
+           "sizes": []
+          },
+          "image_space": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "text_align_mobile": "left",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 17,
+           "sizes": []
+          },
+          "__globals__": {
+           "title_typography_typography": "globals/typography?id=secondary",
+           "description_typography_typography": "globals/typography?id=bolead",
+           "title_color": "globals/colors?id=boink",
+           "description_color": "globals/colors?id=boink"
+          }
+         },
+         "elements": [],
+         "widgetType": "image-box"
+        }
+       ]
+      },
+      {
+       "id": "68bbe77",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "form_name": "Contact Newsletter",
+        "form_fields": [
+         {
+          "_id": "1b05029",
+          "custom_id": "email",
+          "field_type": "email",
+          "field_label": "Email",
+          "placeholder": "Your email address",
+          "required": "true",
+          "width": "66",
+          "width_mobile": "66"
+         }
+        ],
+        "input_size": "md",
+        "show_labels": "",
+        "button_text": "Subscribe",
+        "button_size": "md",
+        "button_width": "34",
+        "button_width_mobile": "33",
+        "submit_actions": [
+         "email"
+        ],
+        "email_subject": "New subscriber - Contact Newsletter",
+        "success_message": "Thank you! You're on the list.",
+        "column_gap": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "row_gap": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "field_border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "field_border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "0",
+         "bottom": "0",
+         "left": "4",
+         "isLinked": false
+        },
+        "button_border_radius": {
+         "unit": "px",
+         "top": "0",
+         "right": "4",
+         "bottom": "4",
+         "left": "0",
+         "isLinked": false
+        },
+        "button_text_padding": {
+         "unit": "px",
+         "top": "15",
+         "right": "22",
+         "bottom": "15",
+         "left": "22",
+         "isLinked": false
+        },
+        "_css_classes": "bo-form bo-form--inline",
+        "__globals__": {
+         "field_typography_typography": "globals/typography?id=bosmall",
+         "button_typography_typography": "globals/typography?id=accent",
+         "field_text_color": "globals/colors?id=boink",
+         "field_background_color": "globals/colors?id=bowhite",
+         "button_background_color": "globals/colors?id=primary",
+         "button_text_color": "globals/colors?id=bowhite",
+         "button_background_hover_color": "globals/colors?id=bodeep",
+         "button_hover_color": "globals/colors?id=bowhite"
+        }
+       },
+       "elements": [],
+       "widgetType": "form"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "page_settings": {
+  "template": "elementor_header_footer",
+  "hide_title": "yes",
+  "background_background": "classic",
+  "background_color": "#F8F4EE",
+  "__globals__": {
+   "background_color": "globals/colors?id=bocream"
+  },
+  "custom_css": "\n/* ===== Be Organic base helpers ===== */\n.bo-arrow .elementor-button-content-wrapper::after{content:\"\";display:inline-block;flex:0 0 auto;width:15px;height:11px;margin-inline-start:10px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transition:transform .25s ease}\n.bo-arrow .elementor-button:hover .elementor-button-content-wrapper::after{transform:translateX(4px)}\n.bo-arrow-left .elementor-button-content-wrapper::before{content:\"\";display:inline-block;flex:0 0 auto;width:15px;height:11px;margin-inline-end:10px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transform:scaleX(-1);transition:transform .25s ease}\n.bo-arrow-left .elementor-button:hover .elementor-button-content-wrapper::before{transform:scaleX(-1) translateX(4px)}\n.bo-arrow .elementor-button,.bo-arrow-left .elementor-button{transition:background-color .25s ease,color .25s ease}\n.bo-leaf-art{display:block;max-width:100%;height:auto}\nbody a.bo-logo,.bo-logo{display:inline-flex;align-items:flex-end;gap:6px;text-decoration:none;color:var(--e-global-color-boink);font-family:var(--e-global-typography-bologo-font-family),serif;font-weight:var(--e-global-typography-bologo-font-weight);font-size:var(--e-global-typography-bologo-font-size);letter-spacing:var(--e-global-typography-bologo-letter-spacing);line-height:1;text-transform:uppercase;white-space:nowrap}\nbody a.bo-logo:hover{color:var(--e-global-color-boink)}\n.bo-logo .bo-sprig{margin-bottom:2px;color:var(--e-global-color-boink)}\nbody a.bo-logo--light,body a.bo-logo--light:hover,.bo-logo--light .bo-sprig{color:var(--e-global-color-bowhite)}\n.bo-clamp-3 .elementor-widget-container,.bo-clamp-3>p,.bo-clamp-3 p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}\n\n.bo-form .elementor-field-group .elementor-field-textual,.bo-form .elementor-field-group select{min-height:50px;padding:12px 16px;border-radius:4px;box-shadow:none;transition:border-color .2s ease}\n.bo-form .elementor-field-group textarea.elementor-field-textual{min-height:130px;resize:vertical}\n.bo-form .elementor-field-group .elementor-field-textual:focus,.bo-form .elementor-field-group select:focus{border-color:var(--e-global-color-primary)!important;outline:none}\n.bo-form .elementor-field-textual::placeholder{color:var(--e-global-color-bomuted);opacity:.85}\n.bo-form .elementor-select-wrapper .select-caret-down-wrapper{right:16px}\n.bo-form .elementor-select-wrapper select{color:var(--e-global-color-boink)}\n.bo-form .elementor-field-type-submit .elementor-button{min-height:58px;width:100%}\n.bo-form .elementor-button .elementor-button-content-wrapper::after{content:\"\";display:inline-block;width:15px;height:11px;margin-inline-start:12px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transition:transform .25s ease}\n.bo-form .elementor-button:hover .elementor-button-content-wrapper::after{transform:translateX(4px)}\n.bo-form .elementor-message{font-size:15px;margin-top:12px}\n.bo-form--inline .elementor-form-fields-wrapper{flex-wrap:nowrap}\n.bo-form--inline .elementor-field-group{margin-bottom:0}\n.bo-form--inline .elementor-field-group .elementor-field-textual{border:0;border-radius:4px 0 0 4px;min-height:52px}\n.bo-form--inline .elementor-field-type-submit .elementor-button{border-radius:0 4px 4px 0;min-height:52px;padding:0 26px}\n.bo-form--noarrow .elementor-button .elementor-button-content-wrapper::after{display:none}\n@media (max-width:767px){.bo-form--inline .elementor-field-group{width:auto!important}.bo-form--inline .elementor-field-type-email{flex:1 1 auto}.bo-form--inline .elementor-field-type-submit{flex:0 0 auto}}\n\n/* Contact page: gold announcement bar (mockup) */\n.bo-topbar{background-color:var(--e-global-color-secondary)!important}\n.bo-leaves{pointer-events:none}\n\n/* Fallback values - Site Settings (global colors/fonts) override these */\n:root{--e-global-color-primary:#1F3D2B;--e-global-color-secondary:#B38746;--e-global-color-text:#4A4841;--e-global-color-accent:#DCE3D3;--e-global-color-bocream:#F8F4EE;--e-global-color-bopaper:#FCFAF6;--e-global-color-boink:#16291E;--e-global-color-bomuted:#6B6961;--e-global-color-bogold:#9A7640;--e-global-color-boborder:#E2DED6;--e-global-color-bodeep:#142B1D;--e-global-color-bowhite:#FFFFFF;--e-global-typography-primary-font-family:\"Newsreader\";--e-global-typography-primary-font-weight:500;--e-global-typography-primary-font-size:64px;--e-global-typography-primary-line-height:1.08em;--e-global-typography-primary-letter-spacing:-1px;--e-global-typography-secondary-font-family:\"Newsreader\";--e-global-typography-secondary-font-weight:500;--e-global-typography-secondary-font-size:44px;--e-global-typography-secondary-line-height:1.15em;--e-global-typography-secondary-letter-spacing:-0.5px;--e-global-typography-text-font-family:\"Jost\";--e-global-typography-text-font-weight:400;--e-global-typography-text-font-size:17px;--e-global-typography-text-line-height:1.65em;--e-global-typography-accent-font-family:\"Jost\";--e-global-typography-accent-font-weight:500;--e-global-typography-accent-font-size:16px;--e-global-typography-accent-line-height:1.2em;--e-global-typography-accent-letter-spacing:0.2px;--e-global-typography-boh3-font-family:\"Newsreader\";--e-global-typography-boh3-font-weight:500;--e-global-typography-boh3-font-size:34px;--e-global-typography-boh3-line-height:1.2em;--e-global-typography-boh3-letter-spacing:-0.3px;--e-global-typography-boh4-font-family:\"Newsreader\";--e-global-typography-boh4-font-weight:500;--e-global-typography-boh4-font-size:25px;--e-global-typography-boh4-line-height:1.25em;--e-global-typography-boh4-letter-spacing:-0.2px;--e-global-typography-boh5-font-family:\"Newsreader\";--e-global-typography-boh5-font-weight:500;--e-global-typography-boh5-font-size:20px;--e-global-typography-boh5-line-height:1.35em;--e-global-typography-bolead-font-family:\"Jost\";--e-global-typography-bolead-font-weight:400;--e-global-typography-bolead-font-size:19px;--e-global-typography-bolead-line-height:1.6em;--e-global-typography-bosmall-font-family:\"Jost\";--e-global-typography-bosmall-font-weight:400;--e-global-typography-bosmall-font-size:15px;--e-global-typography-bosmall-line-height:1.6em;--e-global-typography-boeyebrow-font-family:\"Jost\";--e-global-typography-boeyebrow-font-weight:500;--e-global-typography-boeyebrow-font-size:13px;--e-global-typography-boeyebrow-line-height:1.4em;--e-global-typography-boeyebrow-letter-spacing:2.6px;--e-global-typography-boeyebrow-text-transform:uppercase;--e-global-typography-bonav-font-family:\"Jost\";--e-global-typography-bonav-font-weight:400;--e-global-typography-bonav-font-size:15px;--e-global-typography-bonav-line-height:1.4em;--e-global-typography-bologo-font-family:\"Newsreader\";--e-global-typography-bologo-font-weight:500;--e-global-typography-bologo-font-size:30px;--e-global-typography-bologo-line-height:1em;--e-global-typography-bologo-letter-spacing:0.5px;--e-global-typography-bologo-text-transform:uppercase;}"
+ },
+ "version": "0.4",
+ "title": "Be Organic - Contact Page",
+ "type": "page"
+}

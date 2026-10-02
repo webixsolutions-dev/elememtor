@@ -1,0 +1,261 @@
+{
+ "content": [
+  {
+   "id": "7400c0e",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "container_type": "grid",
+    "content_width": "full",
+    "grid_columns_grid": {
+     "unit": "custom",
+     "size": "1.43fr 1fr",
+     "sizes": []
+    },
+    "grid_rows_grid": {
+     "unit": "custom",
+     "size": "auto",
+     "sizes": []
+    },
+    "grid_gaps": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px"
+    },
+    "grid_auto_flow": "row",
+    "grid_outline": "",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": true
+    },
+    "grid_columns_grid_tablet": {
+     "unit": "custom",
+     "size": "1fr 1fr",
+     "sizes": []
+    },
+    "grid_columns_grid_mobile": {
+     "unit": "custom",
+     "size": "1fr",
+     "sizes": []
+    },
+    "grid_rows_grid_mobile": {
+     "unit": "custom",
+     "size": "auto",
+     "sizes": []
+    },
+    "grid_align_items": "stretch"
+   },
+   "elements": [
+    {
+     "id": "f2d7391",
+     "elType": "widget",
+     "isInner": false,
+     "settings": {
+      "image_size": "large",
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "height": {
+       "unit": "px",
+       "size": 345,
+       "sizes": []
+      },
+      "height_tablet": {
+       "unit": "px",
+       "size": 300,
+       "sizes": []
+      },
+      "height_mobile": {
+       "unit": "px",
+       "size": 240,
+       "sizes": []
+      },
+      "object-fit": "cover",
+      "object-position": "center center",
+      "link_to": "custom",
+      "align": "center",
+      "__dynamic__": {
+       "image": "[elementor-tag id=\"4366ded\" name=\"post-featured-image\" settings=\"%7B%7D\"]",
+       "link": "[elementor-tag id=\"2fd7d3f\" name=\"post-url\" settings=\"%7B%7D\"]"
+      }
+     },
+     "elements": [],
+     "widgetType": "theme-post-featured-image"
+    },
+    {
+     "id": "b9f9a1d",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "flex",
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "column": "14",
+       "row": "14",
+       "isLinked": true,
+       "unit": "px"
+      },
+      "flex_justify_content": "center",
+      "padding": {
+       "unit": "px",
+       "top": "30",
+       "right": "36",
+       "bottom": "30",
+       "left": "36",
+       "isLinked": false
+      },
+      "background_background": "classic",
+      "padding_mobile": {
+       "unit": "px",
+       "top": "26",
+       "right": "20",
+       "bottom": "28",
+       "left": "20",
+       "isLinked": false
+      },
+      "__globals__": {
+       "background_color": "globals/colors?id=bopaper"
+      }
+     },
+     "elements": [
+      {
+       "id": "fe0856b",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "title": "Ingredient spotlight",
+        "header_size": "p",
+        "__globals__": {
+         "typography_typography": "globals/typography?id=boeyebrow",
+         "title_color": "globals/colors?id=secondary"
+        }
+       },
+       "elements": [],
+       "widgetType": "heading"
+      },
+      {
+       "id": "493bf66",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "title": "Post Title",
+        "header_size": "h2",
+        "typography_typography": "custom",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 34,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 27,
+         "sizes": []
+        },
+        "__globals__": {
+         "typography_typography": "globals/typography?id=boh3",
+         "title_color": "globals/colors?id=boink"
+        },
+        "__dynamic__": {
+         "title": "[elementor-tag id=\"7423bc7\" name=\"post-title\" settings=\"%7B%7D\"]",
+         "link": "[elementor-tag id=\"f1793c9\" name=\"post-url\" settings=\"%7B%7D\"]"
+        }
+       },
+       "elements": [],
+       "widgetType": "theme-post-title"
+      },
+      {
+       "id": "5bef1c8",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "editor": "Post excerpt",
+        "paragraph_spacing": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "__globals__": {
+         "typography_typography": "globals/typography?id=text",
+         "text_color": "globals/colors?id=text"
+        },
+        "__dynamic__": {
+         "editor": "[elementor-tag id=\"990dcc5\" name=\"post-excerpt\" settings=\"%7B%22max_length%22%3A%2240%22%7D\"]"
+        }
+       },
+       "elements": [],
+       "widgetType": "text-editor"
+      },
+      {
+       "id": "750f791",
+       "elType": "widget",
+       "isInner": false,
+       "settings": {
+        "text": "Read Story",
+        "link": {
+         "url": "#",
+         "is_external": "",
+         "nofollow": ""
+        },
+        "size": "md",
+        "border_radius": {
+         "unit": "px",
+         "top": "2",
+         "right": "2",
+         "bottom": "2",
+         "left": "2",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "14",
+         "right": "26",
+         "bottom": "14",
+         "left": "26",
+         "isLinked": false
+        },
+        "background_background": "classic",
+        "button_background_hover_background": "classic",
+        "_css_classes": "bo-arrow",
+        "_margin": {
+         "unit": "px",
+         "top": "8",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "__globals__": {
+         "background_color": "globals/colors?id=secondary",
+         "button_text_color": "globals/colors?id=bowhite",
+         "button_background_hover_color": "globals/colors?id=primary",
+         "hover_color": "globals/colors?id=bowhite",
+         "typography_typography": "globals/typography?id=accent"
+        },
+        "__dynamic__": {
+         "link": "[elementor-tag id=\"ed1824b\" name=\"post-url\" settings=\"%7B%7D\"]"
+        }
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "page_settings": {
+  "custom_css": "\n/* ===== Be Organic base helpers ===== */\n.bo-arrow .elementor-button-content-wrapper::after{content:\"\";display:inline-block;flex:0 0 auto;width:15px;height:11px;margin-inline-start:10px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transition:transform .25s ease}\n.bo-arrow .elementor-button:hover .elementor-button-content-wrapper::after{transform:translateX(4px)}\n.bo-arrow-left .elementor-button-content-wrapper::before{content:\"\";display:inline-block;flex:0 0 auto;width:15px;height:11px;margin-inline-end:10px;background-color:currentColor;-webkit-mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;mask:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12'%3E%3Cpath d='M1 6h13M9.5 1.5 14 6l-4.5 4.5' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/contain no-repeat;transform:scaleX(-1);transition:transform .25s ease}\n.bo-arrow-left .elementor-button:hover .elementor-button-content-wrapper::before{transform:scaleX(-1) translateX(4px)}\n.bo-arrow .elementor-button,.bo-arrow-left .elementor-button{transition:background-color .25s ease,color .25s ease}\n.bo-leaf-art{display:block;max-width:100%;height:auto}\nbody a.bo-logo,.bo-logo{display:inline-flex;align-items:flex-end;gap:6px;text-decoration:none;color:var(--e-global-color-boink);font-family:var(--e-global-typography-bologo-font-family),serif;font-weight:var(--e-global-typography-bologo-font-weight);font-size:var(--e-global-typography-bologo-font-size);letter-spacing:var(--e-global-typography-bologo-letter-spacing);line-height:1;text-transform:uppercase;white-space:nowrap}\nbody a.bo-logo:hover{color:var(--e-global-color-boink)}\n.bo-logo .bo-sprig{margin-bottom:2px;color:var(--e-global-color-boink)}\nbody a.bo-logo--light,body a.bo-logo--light:hover,.bo-logo--light .bo-sprig{color:var(--e-global-color-bowhite)}\n.bo-clamp-3 .elementor-widget-container,.bo-clamp-3>p,.bo-clamp-3 p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}\n\n/* Fallback values - Site Settings (global colors/fonts) override these */\n:root{--e-global-color-primary:#1F3D2B;--e-global-color-secondary:#B38746;--e-global-color-text:#4A4841;--e-global-color-accent:#DCE3D3;--e-global-color-bocream:#F8F4EE;--e-global-color-bopaper:#FCFAF6;--e-global-color-boink:#16291E;--e-global-color-bomuted:#6B6961;--e-global-color-bogold:#9A7640;--e-global-color-boborder:#E2DED6;--e-global-color-bodeep:#142B1D;--e-global-color-bowhite:#FFFFFF;--e-global-typography-primary-font-family:\"Newsreader\";--e-global-typography-primary-font-weight:500;--e-global-typography-primary-font-size:64px;--e-global-typography-primary-line-height:1.08em;--e-global-typography-primary-letter-spacing:-1px;--e-global-typography-secondary-font-family:\"Newsreader\";--e-global-typography-secondary-font-weight:500;--e-global-typography-secondary-font-size:44px;--e-global-typography-secondary-line-height:1.15em;--e-global-typography-secondary-letter-spacing:-0.5px;--e-global-typography-text-font-family:\"Jost\";--e-global-typography-text-font-weight:400;--e-global-typography-text-font-size:17px;--e-global-typography-text-line-height:1.65em;--e-global-typography-accent-font-family:\"Jost\";--e-global-typography-accent-font-weight:500;--e-global-typography-accent-font-size:16px;--e-global-typography-accent-line-height:1.2em;--e-global-typography-accent-letter-spacing:0.2px;--e-global-typography-boh3-font-family:\"Newsreader\";--e-global-typography-boh3-font-weight:500;--e-global-typography-boh3-font-size:34px;--e-global-typography-boh3-line-height:1.2em;--e-global-typography-boh3-letter-spacing:-0.3px;--e-global-typography-boh4-font-family:\"Newsreader\";--e-global-typography-boh4-font-weight:500;--e-global-typography-boh4-font-size:25px;--e-global-typography-boh4-line-height:1.25em;--e-global-typography-boh4-letter-spacing:-0.2px;--e-global-typography-boh5-font-family:\"Newsreader\";--e-global-typography-boh5-font-weight:500;--e-global-typography-boh5-font-size:20px;--e-global-typography-boh5-line-height:1.35em;--e-global-typography-bolead-font-family:\"Jost\";--e-global-typography-bolead-font-weight:400;--e-global-typography-bolead-font-size:19px;--e-global-typography-bolead-line-height:1.6em;--e-global-typography-bosmall-font-family:\"Jost\";--e-global-typography-bosmall-font-weight:400;--e-global-typography-bosmall-font-size:15px;--e-global-typography-bosmall-line-height:1.6em;--e-global-typography-boeyebrow-font-family:\"Jost\";--e-global-typography-boeyebrow-font-weight:500;--e-global-typography-boeyebrow-font-size:13px;--e-global-typography-boeyebrow-line-height:1.4em;--e-global-typography-boeyebrow-letter-spacing:2.6px;--e-global-typography-boeyebrow-text-transform:uppercase;--e-global-typography-bonav-font-family:\"Jost\";--e-global-typography-bonav-font-weight:400;--e-global-typography-bonav-font-size:15px;--e-global-typography-bonav-line-height:1.4em;--e-global-typography-bologo-font-family:\"Newsreader\";--e-global-typography-bologo-font-weight:500;--e-global-typography-bologo-font-size:30px;--e-global-typography-bologo-line-height:1em;--e-global-typography-bologo-letter-spacing:0.5px;--e-global-typography-bologo-text-transform:uppercase;}",
+  "preview_type": "single/post"
+ },
+ "version": "0.4",
+ "title": "Be Organic - Loop Item - Spotlight",
+ "type": "loop-item"
+}
